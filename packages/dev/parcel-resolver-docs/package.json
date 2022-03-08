@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "@parcel/plugin": "nightly",
-    "@parcel/node-resolver-core": "nightly"
+    "@parcel/node-resolver-core": "2.0.0"
   }
 }
