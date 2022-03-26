@@ -11,6 +11,12 @@
     "@babel/traverse": "^7.9.0",
     "@babel/types": "^7.9.0",
     "@parcel/plugin": "nightly",
-    "doctrine": "^3.0.0"
-  }
+    "doctrine": "^3.0.0",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
