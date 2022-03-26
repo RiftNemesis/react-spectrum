@@ -9,7 +9,7 @@
   "dependencies": {
     "@atom-languages/language-typescript": "atom/language-typescript#v0.6.2",
     "@atom-languages/language-css": "atom/language-css#v0.44.4",
-    "@mdx-js/mdx": "^1.5.5",
+    "@mdx-js/mdx": "^2.0.0",
     "@mdx-js/react": "^1.5.5",
     "@parcel/plugin": "nightly",
     "js-yaml": "^3.13.1",
