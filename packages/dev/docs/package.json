@@ -30,6 +30,6 @@
     "quicklink": "^2.0.0",
     "react": "^16.8.0 || ^17.0.0-rc.1",
     "react-dom": "^16.8.0 || ^17.0.0-rc.1",
-    "react-lowlight": "^2.0.0"
+    "react-lowlight": "^3.0.0"
   }
 }
