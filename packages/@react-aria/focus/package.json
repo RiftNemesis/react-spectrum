@@ -17,7 +17,7 @@
     "url": "https://github.com/adobe/react-spectrum"
   },
   "dependencies": {
-    "@babel/runtime": "^7.6.2",
+    "@babel/runtime": "^7.26.10",
     "@react-aria/interactions": "^3.5.0",
     "@react-aria/utils": "^3.8.1",
     "@react-types/shared": "^3.7.0",
