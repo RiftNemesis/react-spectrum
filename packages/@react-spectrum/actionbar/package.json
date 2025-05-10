@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@adobe/react-spectrum": "^3.11.1",
-    "@babel/runtime": "^7.6.2",
+    "@babel/runtime": "^7.26.10",
     "@react-aria/focus": "^3.4.0",
     "@react-aria/i18n": "^3.3.0",
     "@react-aria/interactions": "^3.5.0",
