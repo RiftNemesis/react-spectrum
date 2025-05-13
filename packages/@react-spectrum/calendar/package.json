@@ -32,7 +32,7 @@
     "url": "https://github.com/adobe/react-spectrum"
   },
   "dependencies": {
-    "@babel/runtime": "^7.6.2",
+    "@babel/runtime": "^7.26.10",
     "@internationalized/date": "3.0.0-alpha.1",
     "@react-aria/calendar": "3.0.0-alpha.1",
     "@react-aria/focus": "^3.1.0",
